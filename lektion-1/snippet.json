@@ -1,0 +1,11 @@
+{
+
+     "HTML with Bootstrap5.x": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "HTML with Bootstrap 5.x"
+    }
+}
